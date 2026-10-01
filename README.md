@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full-Stack Billing & Invoicing System (React + Flask + SQLite + .exe)
 
 A modern, full-stack billing and invoicing desktop web application built with **React** on the frontend, **Flask & SQLite** on the backend, and packaged into a standalone Windows **`.exe`** using **PyInstaller** and **Waitress**.
@@ -140,3 +141,7 @@ Or simply double-click `run_dev.bat`.
   Open `backend/pdf_generator.py` and modify `YOUR BUSINESS NAME`, address, and contact details in `header_data`.
 - **Change Currency or Default Tax Rate**:
   Open `frontend/src/components/BillingForm.jsx` and adjust the default state `taxRate = 10`.
+=======
+# BillingApp-
+Security testing
+>>>>>>> 4b6149436c350b9c485e4302a094fedf7c412ffb
